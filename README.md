@@ -64,7 +64,6 @@ A modern, responsive personal portfolio website built with HTML, CSS, and Bootst
 - CSS3
 - Bootstrap 5
 - Font Awesome Icons
-- JavaScript
 
 ## Getting Started
 
